@@ -39,10 +39,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 
 ![Renson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rensonralphbitara&theme=radical)
 
-## 🔥 GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rensonralphbitara&theme=radical)](https://git.io/streak-stats)
-
 ## 🎯 Current Goals
 
 - [ ] Master Git and GitHub workflows
