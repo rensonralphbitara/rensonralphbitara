@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 - 🌱 I'm currently learning **Git, GitHub, and software development**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **rensonralphbitara@gmail.com
-**
+- 📫 How to reach me: **rensonralphbitara@gmail.com**
 - ⚡ Fun fact: **I love solving problems through code!**
 
 ## 🛠️ Technologies & Tools
