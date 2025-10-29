@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 
 ![Renson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rensonralphbitara&theme=radical)
 
-## 🔥 Streak Stats
+## 🔥 GitHub Metrics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rensonralphbitara&theme=radical)
+![GitHub metrics](https://metrics.lecoq.io/rensonralphbitara)
 
 ## 💻 Recent Projects
 
