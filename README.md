@@ -39,15 +39,9 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 
 ![Renson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rensonralphbitara&theme=radical)
 
-## 🔥 GitHub Metrics
+## 🔥 GitHub Streak Stats
 
-![GitHub metrics](https://metrics.lecoq.io/rensonralphbitara)
-
-## 💻 Recent Projects
-
-- 🚀 **[Project Name]** - Brief description of your project
-- 🌟 **[Another Project]** - What it does and technologies used
-- ⚡ **[Cool Project]** - Your latest creation
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rensonralphbitara&theme=radical)](https://git.io/streak-stats)
 
 ## 🎯 Current Goals
 
@@ -59,9 +53,8 @@ Welcome to my GitHub profile! I'm passionate about coding and always excited to 
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/renson-ralph-bitara/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rensonralphbitara@gmail.com)
 
 ## 💭 Quote of the Day
 
